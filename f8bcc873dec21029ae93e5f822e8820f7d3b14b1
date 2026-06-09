@@ -1,0 +1,23 @@
+CLAUDE.md
+  ce2648d8d34edee7 5-8,21-25,30-32,36-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.22",
+  "base_commit_sha": "f8bcc873dec21029ae93e5f822e8820f7d3b14b1",
+  "prompts": {
+    "ce2648d8d34edee7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5aadb4b9-14e2-4f5c-acf5-2594f0d7ccd7",
+        "model": "claude-opus-4.8"
+      },
+      "human_author": "zhongyj4",
+      "messages": [],
+      "total_additions": 16,
+      "total_deletions": 46,
+      "accepted_lines": 16,
+      "overriden_lines": 0
+    }
+  }
+}
