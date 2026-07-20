@@ -33,7 +33,7 @@ python examples/veighna_trader/run.py   # 运行交易客户端（需先配置�
 
 ## 核心架构
 
-详见 `../vnpy-trader/.claude/knowledge/10-vnpy-monorepo-architecture.md`，涵盖：
+详见 `../vnpy-trader/.claude/knowledge/项目架构/02-vnpy仓库架构与开发参考.md`，涵盖：
 事件驱动引擎（`vnpy/event/engine.py`）、MainEngine 中枢（`vnpy/trader/engine.py`）、插件体系（网关/应用/数据库）、
 数据对象（`vnpy/trader/object.py`）、开平转换器（`vnpy/trader/converter.py`）、RPC 多进程（`vnpy/rpc/`）、
 Alpha 研究管道（`vnpy/alpha/`）、GUI（`vnpy/trader/ui/`、`vnpy/chart/`）、国际化构建。
